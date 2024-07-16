@@ -11,3 +11,5 @@
 # Jika anda Membutuhkan Halaman Website dengan Fitur di atas, dapat melakukan Donasi pada Link Berikut ini
 
 https://trakteer.id/tim_it/tip
+
+Kirimkan bukti Donasi ke alamat Email : r00t at imac.my.id
