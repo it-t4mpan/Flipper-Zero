@@ -10,6 +10,6 @@ DELAY 1000
 ENTER 
 DELAY 1000 
 GUI L 
-STRING https://itxloket.my.id
+STRING https://target.id
 DELAY 1000 
 ENTER
