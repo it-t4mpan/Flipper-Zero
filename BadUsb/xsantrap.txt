@@ -1,4 +1,4 @@
-REM Just Trap payload for android
+REM Just Trap payload for android - open browser
 REM Credit: XsanLahci
 
 GUI b 
