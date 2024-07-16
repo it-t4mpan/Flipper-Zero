@@ -1,0 +1,15 @@
+REM Author: Xsan-LAhci
+REM Thanks : Aurel666, ArcZ0r0
+REM Description: Open Browser and Visit website 
+REM Version 2.0
+DELAY 1000 
+GUI SPACE 
+DELAY 1000 
+STRING safari 
+DELAY 1000 
+ENTER 
+DELAY 1000 
+GUI L 
+STRING https://itxloket.my.id
+DELAY 1000 
+ENTER
