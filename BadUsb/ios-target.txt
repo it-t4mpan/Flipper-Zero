@@ -1,4 +1,4 @@
-REM Author: Xsan-LAhci
+REM Author: Xsan-Lahci
 REM Thanks : Aurel666, Elki
 REM Description: Open Browser and Visit website 
 REM Version 2.0
