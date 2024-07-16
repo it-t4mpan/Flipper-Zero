@@ -1,5 +1,5 @@
 REM Just Trap payload for android - open browser
-REM Autho: XsanLahci
+REM Author: XsanLahci
 REM Thanks : Aurel666, Elki
 GUI b 
 DELAY 600 
