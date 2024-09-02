@@ -15,7 +15,7 @@ Bulk XML Parser adalah aplikasi berbasis web yang memungkinkan Anda untuk mengun
 
 1. **Clone atau Unduh Repositori**:
    ```bash
-   git clone https://github.com/username/bulk-xml-parser.git
+   git clone https://github.com/it-t4mpan/BadUsb/bulk_xml_parser.git
 
 2. **Upload File XML:**
 
